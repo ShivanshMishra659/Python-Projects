@@ -22,7 +22,7 @@ python num_guess.py
 
 ## Requirements
 - Python 3.x
-- No external libraries needed
+- No external libraries needed for now
 
 ## How to Run
 1. Clone this repository
